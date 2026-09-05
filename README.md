@@ -1,0 +1,1 @@
+# filegenpro-core-spec
